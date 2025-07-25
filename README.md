@@ -1,4 +1,4 @@
-This repository for pipe-MIPS32 verilog code.
+This repository for MIPS32_RISC verilog code.
 
 The MIPS32 is the instruction set architecture of a popular Reduced Instrucon Set Architecture (RISC) processor.
 
