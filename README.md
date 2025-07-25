@@ -1,1 +1,5 @@
-# MIPS32_pipeline_processor
+This repository for pipe-MIPS32 verilog code.
+
+The MIPS32 is the instruction set architecture of a popular Reduced Instrucon Set Architecture (RISC) processor.
+
+It is a 32-bit processor, i.e. can operate on 32 bits	of data	at a time.
